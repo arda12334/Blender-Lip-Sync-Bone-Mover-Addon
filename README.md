@@ -1,5 +1,3 @@
-Made for lazy people and animators
-
 How To Use:
 
 Download and install:
@@ -29,7 +27,7 @@ Map your Visemes:,
 For each letter/viseme, set X, Y, Z on your bone.
 
 Important:
-
+      
 
 Made With ChatGPT
 (i have no blender add-on coding experience whatsoever and i have no idea what i am doing)
@@ -38,7 +36,7 @@ some letters are broken
 
 please do not ask any questions before following the tutorial
 
-if you see any bugs contact me please 
+if you see any bugs contact me on discord please (my username is tahavr)
 
 also there are presets that you can use and export for some rigs so you dont have to set everything by yourself.,
 i hope this add-on helps you or saves you time! 
