@@ -36,7 +36,7 @@ some letters are broken
 
 please do not ask any questions before following the tutorial
 
-if you see any bugs contact me on discord please (my username is tahavr)
+if you see any bugs contact me on discord please (my username is tahavr on discord)
 
 also there are presets that you can use and export for some rigs so you dont have to set everything by yourself.
 
